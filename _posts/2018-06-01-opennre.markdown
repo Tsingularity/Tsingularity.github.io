@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "OpenNRE: An Open-Source Package for Neural Relation Extraction implemented in TensorFlow"
+date:   2018-07-01 08:00:00 +00:00
+image: /images/opennre.png
+categories: project
+authors: "Tianyu Gao, Xu Han, Shulian Cao, <strong>Luming Tang</strong>, Yankai Lin, Zhiyuan Liu"
+code: https://github.com/thunlp/OpenNRE
+---

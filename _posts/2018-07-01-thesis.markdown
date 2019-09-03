@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "RE_NetVLAD: a New Sentence Encoder for Rich Context Relation Extraction"
+date:   2018-07-01 08:00:00 +00:00
+image: /images/thesis.png
+categories: project
+authors: "<strong>Luming Tang</strong>, Zhiyuan Liu"
+venue: "Undergraduate Thesis (in Chinese)"
+paper: /pdfs/lumingtang_thesis.pdf
+slides: /pdfs/thesis_slides.pdf
+---
