@@ -4,6 +4,6 @@ title:  "OpenNRE: An Open-Source Package for Neural Relation Extraction implemen
 date:   2018-07-01 08:00:00 +00:00
 image: /images/opennre.png
 categories: project
-authors: "Tianyu Gao, Xu Han, Shulian Cao, <strong>Luming Tang</strong>, Yankai Lin, Zhiyuan Liu"
+authors: "Tianyu Gao, Xu Han, Shulin Cao, <strong>Luming Tang</strong>, Yankai Lin, Zhiyuan Liu"
 code: https://github.com/thunlp/OpenNRE
 ---

@@ -8,4 +8,5 @@ authors: "Zhongdao Wang*, <strong>Luming Tang*</strong>, Xihui Liu, Zhuliang Yao
 venue: "IEEE International Conference on Computer Vision (ICCV)"
 paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf
 poster: /pdfs/iccv17_poster.pdf
+dataset: https://github.com/Zhongdao/VehicleReIDKeyPointData
 ---

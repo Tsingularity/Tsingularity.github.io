@@ -80,6 +80,9 @@
               {% if post.video %}
               / <a href="{{post.video}}">video</a>
               {% endif %}
+              {% if post.dataset %}
+              / <a href="{{post.dataset}}">dataset</a>
+              {% endif %}
               {% if post.code %}
               / <a href="{{post.code}}">code</a>
               {% endif %}
@@ -156,6 +159,16 @@
               / 
               {% endif %}
               <a href="{{post.video}}">video</a>
+              {% endif %}
+
+              {% if post.dataset %}
+
+              {% if my_flag == false %}
+              {% assign my_flag = true %}
+              {% else %}
+              / 
+              {% endif %}
+              <a href="{{post.dataset}}">dataset</a>
               {% endif %}
 
               {% if post.code %}
