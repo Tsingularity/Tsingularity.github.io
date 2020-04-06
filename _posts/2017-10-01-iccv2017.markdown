@@ -4,7 +4,7 @@ title:  "Orientation Invariant Feature Embedding and Spatial Temporal Regulariza
 date:   2017-10-01 08:00:00 +00:00
 image: /images/iccv17.png
 categories: research
-authors: "Zhongdao Wang*, <strong>Luming Tang*</strong>, Xihui Liu, Zhuliang Yao, Shuai Yi, Jing Shao, Junjie Yan, Shengjin Wang, Hongsheng Li, Xiaogang Wang (* indicates equal contribution)"
+authors: "Zhongdao Wang*, <strong>Luming Tang*</strong>, Xihui Liu, Zhuliang Yao, Shuai Yi, Jing Shao, Junjie Yan, Shengjin Wang, Hongsheng Li, Xiaogang Wang"
 venue: "International Conference on Computer Vision (ICCV)"
 paper: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf
 poster: /pdfs/iccv17_poster.pdf
