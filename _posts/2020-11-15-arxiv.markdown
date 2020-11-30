@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Fine-Grained Few-Shot Classification with Feature Map Reconstruction Networks"
+date:   2020-11-15 08:00:00 +00:00
+image: /images/frn.png
+categories: research
+authors: "Davis Wertheimer*, <strong>Luming Tang*</strong>, Bharath Hariharan"
+venue: "in submission"
+paper: /pdfs/FRN.pdf
+---
