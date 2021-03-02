@@ -42,8 +42,20 @@
                 <a href="https://www.linkedin.com/in/lt453/"> LinkedIn </a>
               </p>
             </td>
-            <td style="padding:2.5%;width:35%;max-width:35%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/serious_circle.png">
+            <td style="padding:10%; display: flex; flex-direction: column; align-items: center; justify-content: center;" onmouseout="real_photo_stop()" onmouseover="real_photo_start()">
+                <img id="real_photo_image" style="width:0;max-width:100%;" alt="profile photo" src="images/florida.jpg">
+                <img id="illus_image" style="width:100%;max-width:100%;" alt="profile photo" src="images/tlm.jpg">
+                <script type="text/javascript">
+                    function real_photo_start() {
+                      document.getElementById('real_photo_image').style.width = "100%";
+                      document.getElementById('illus_image').style.width = "0";
+                    }
+                    function real_photo_stop() {
+                      document.getElementById('real_photo_image').style.width = "0";
+                      document.getElementById('illus_image').style.width = "100%";
+                    }
+                    inerf_stop()
+                  </script>
             </td>
           </tr>
         </table>
@@ -218,7 +230,7 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Experience</h2>
-              <p>I am very fortunate to have chance to work in multiple great research groups and spend enjoyable time with so many amazing advisors, mentors and co-workers.
+              <p>I am very fortunate to have chance to work in multiple great research groups and spend enjoyable time with so many amazing advisors, mentors and collaborators.
               </p>
 
               <ul>
@@ -228,7 +240,7 @@
               </li>
               <li>Sep.2018 - Dec.2018: Visual Computing Group, Microsoft Research Asia
                 <br>
-                Research Intern, mentored by <a href="http://www.davidwipf.com/">David Wipf</a>
+                Research Intern, mentored by <a href="http://www.davidwipf.com/">David Wipf</a>, worked with <a href="https://scholar.google.com/citations?user=tYzD6G4AAAAJ&hl=en">Bin Dai</a>
               </li>
               <li>Sep.2016 - Jun.2018: Natural Language Processing Lab, Tsinghua University
                 <br>
@@ -236,11 +248,11 @@
               </li>
               <li>Jun.2017 - Sep.2017: Computational Sustainability Lab, Cornell University
                 <br> 
-                Research Intern, advised by <a href="http://www.cs.cornell.edu/gomes/">Carla Gomes</a>, worked with <a href="https://www.cs.purdue.edu/homes/yexiang/">Yexiang Xue</a>
+                Research Intern, advised by <a href="http://www.cs.cornell.edu/gomes/">Carla Gomes</a>, worked with <a href="https://www.cs.purdue.edu/homes/yexiang/">Yexiang Xue</a> and <a href="https://www.cs.cornell.edu/~di/">Di Chen</a>
               </li>
-              <li>Dec.2016 - Jun.2017: Research Group, Sensetime Group Limited
+              <li>Dec.2016 - Jun.2017: SenseTime
                 <br>
-                Research Intern, mentored by <a href="https://scholar.google.com/citations?user=afbbNmwAAAAJ&hl=en">Shuai Yi</a>
+                Research Intern, mentored by <a href="https://scholar.google.com/citations?user=afbbNmwAAAAJ&hl=en">Shuai Yi</a>, worked with <a href="https://zhongdao.github.io/">Zhongdao Wang</a>, <a href="https://scholar.google.com/citations?user=sMQV1ecAAAAJ">Haiyu Zhao</a> and <a href="http://boyangdeng.com/">Boyang Deng</a>
               </li>
               </ul>
             </td>
@@ -270,7 +282,7 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Service</h2>
-              <p>Conference Reviewer: CVPR 2021
+              <p>Conference Reviewer: CVPR 2021, ICCV 2021
               </p>
             </td>
           </tr>
@@ -281,9 +293,10 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Misc.</h2>
               <ul>
+            <li>Header avatars credit to <a href="https://www.instagram.com/zeyapdraws">Zeya Peng</a>.</li>
               <li>I love <a href="/images/soccer.jpeg">playing soccer</a> and FIFA/PES games (FIFA'20 Season Division 1).
               </li>
-              <li>Meet the most adorable <a href="/images/cat.jpeg">S'more</a>!
+              <li>Meet the most adorable <a href="/images/cat.jpeg">S'more</a>! Her Chinese name is 屎妹 :)
               </li>
               <li>I am from <a href="https://en.wikipedia.org/wiki/Jiaozuo">Jiaozuo</a>, a beautiful small city in Henan, China.
               </li>
@@ -307,9 +320,6 @@
               <p style="text-align:center;font-size:small;">
                 Design and source code modified based on <a style="font-size:small;" href="https://leonidk.com/">Leonid Keselman</a> and <a style="font-size:small;" href="https://jonbarron.info/">Jon Barron</a>'s website
               </p>
-              <!--
-              <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=m&d=VmUG7U9HDhpt9fpr3mSLhSi17nuWzdQCP7iv0d-QGM4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-              -->
               <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=VmUG7U9HDhpt9fpr3mSLhSi17nuWzdQCP7iv0d-QGM4'></script>
               <p style="text-align:center;font-size:small;">
                 last update: Dec, 2020
