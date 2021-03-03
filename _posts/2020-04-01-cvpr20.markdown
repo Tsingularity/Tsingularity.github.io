@@ -8,4 +8,5 @@ authors: "<strong>Luming Tang</strong>, Davis Wertheimer, Bharath Hariharan"
 venue: "CVPR"
 paper: https://arxiv.org/abs/2004.00705
 code: https://github.com/Tsingularity/PoseNorm_Fewshot
+video: https://www.youtube.com/watch?v=T9cc4DJJuXo
 ---
