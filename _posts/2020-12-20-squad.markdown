@@ -3,7 +3,7 @@ layout: post
 title:  "Baseline implementation of DrQA and BERT finetuning on SQuAD 2.0"
 date:   2020-12-20 08:00:00 +00:00
 image: /images/qa.jpg
-venue: "CS 5740 Course Project"
+venue: "CS 5740 Natural Language Processing, Assignment 4"
 categories: project
 authors: "<strong>Luming Tang</strong>"
 code: https://github.com/Tsingularity/Naive_SQuAD

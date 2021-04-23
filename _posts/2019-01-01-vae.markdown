@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "On the Regularization Balance in Autoencoder-Based Generative Models"
+date:   2019-01-01 08:00:00 +00:00
+image: /images/vae.jpg
+venue: "Tech Report"
+categories: project
+authors: "Bin Dai, <strong>Luming Tang</strong>, David Wipf"
+draft: /pdfs/vae.pdf
+supp: /pdfs/vae_supp.pdf
+---

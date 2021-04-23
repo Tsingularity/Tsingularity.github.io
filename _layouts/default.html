@@ -28,10 +28,13 @@
               <h1>
                 Luming Tang
               </h1>
-              <p>I am a CS PhD student at Cornell University starting from Spring 2019, advised by Professor <a href="http://home.bharathh.info/">Bharath Hariharan</a>. Before that, I received my Bachelor degree in Mathematics and Physics from Tsinghua University in July, 2018 where I was very fortunated to be advised by Professor <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu</a>.
+              <p>I am a CS PhD student at Cornell University starting from 2019 Spring, advised by Professor <a href="http://home.bharathh.info/">Bharath Hariharan</a>. Before that, I received my Bachelor degree in Mathematics and Physics from Tsinghua University in July, 2018 where I was very fortunated to be advised by Professor <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu</a>.
               </p>
               <p>
-                <b>I am always open to research internship and collaboration opportunities on computer vision and machine learning. Feel free to shoot me an email if you wanna schedule a meeting, interview or just casual chat.</b>
+                <b>I am always open to research internship and collaboration opportunities. Feel free to shoot me an email if you are interested in my research and wanna schedule a meeting, interview or just casual chat.</b>
+              </p>
+              <p>
+                <b>I'll intern at Waymo's perception team for 2021 summer.</b>
               </p>
 
               <p style="text-align:center">
@@ -124,7 +127,10 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Project</h2>
+              <h2>Projects</h2>
+              <p>
+                Here're some interesting research or course projects I have worked on. 
+              </p>
             </td>
           </tr>
         </table>
@@ -199,6 +205,42 @@
               <a href="{{post.code}}">code</a>
               {% endif %}
 
+              {% if post.draft %}
+              {% if my_flag == false %}
+              {% assign my_flag = true %}
+              {% else %}
+              / 
+              {% endif %}
+              <a href="{{post.draft}}">draft</a>
+              {% endif %}
+
+              {% if post.supp %}
+              {% if my_flag == false %}
+              {% assign my_flag = true %}
+              {% else %}
+              / 
+              {% endif %}
+              <a href="{{post.supp}}">supplementary</a>
+              {% endif %}
+
+              {% if post.problem %}
+              {% if my_flag == false %}
+              {% assign my_flag = true %}
+              {% else %}
+              / 
+              {% endif %}
+              <a href="{{post.problem}}">problem</a>
+              {% endif %}
+              
+              {% if post.our_proof %}
+              {% if my_flag == false %}
+              {% assign my_flag = true %}
+              {% else %}
+              / 
+              {% endif %}
+              <a href="{{post.our_proof}}">our proof</a>
+              {% endif %}
+
               {% if post.poster %}
               {% if my_flag == false %}
               {% assign my_flag = true %}
@@ -236,11 +278,11 @@
               <ul>
               <li>May.2019 - Now: Graphics and Vision Group, Cornell
                 <br>
-                Graduate Research Assistant, advised by <a href="http://home.bharathh.info/">Bharath Hariharan</a>, work with <a href="https://daviswer.github.io/">Davis Wertheimer</a>
+                Graduate Research Assistant, advised by <a href="http://home.bharathh.info/">Bharath Hariharan</a>, collaborate with <a href="https://daviswer.github.io/">Davis Wertheimer</a>
               </li>
               <li>Sep.2018 - Dec.2018: Visual Computing Group, Microsoft Research Asia
                 <br>
-                Research Intern, mentored by <a href="http://www.davidwipf.com/">David Wipf</a>, worked with <a href="https://scholar.google.com/citations?user=tYzD6G4AAAAJ&hl=en">Bin Dai</a>
+                Research Intern, mentored by <a href="http://www.davidwipf.com/">David Wipf</a>, collaborated with <a href="https://scholar.google.com/citations?user=tYzD6G4AAAAJ&hl=en">Bin Dai</a>
               </li>
               <li>Sep.2016 - Jun.2018: Natural Language Processing Lab, Tsinghua
                 <br>
@@ -248,11 +290,11 @@
               </li>
               <li>Jun.2017 - Sep.2017: Computational Sustainability Lab, Cornell
                 <br> 
-                Research Intern, advised by <a href="http://www.cs.cornell.edu/gomes/">Carla Gomes</a>, worked with <a href="https://www.cs.purdue.edu/homes/yexiang/">Yexiang Xue</a> and <a href="https://www.cs.cornell.edu/~di/">Di Chen</a>
+                Research Intern, advised by <a href="http://www.cs.cornell.edu/gomes/">Carla P. Gomes</a>, collaborated with <a href="https://www.cs.purdue.edu/homes/yexiang/">Yexiang Xue</a> and <a href="https://www.cs.cornell.edu/~di/">Di Chen</a>
               </li>
               <li>Dec.2016 - Jun.2017: SenseTime
                 <br>
-                Research Intern, mentored by <a href="https://scholar.google.com/citations?user=afbbNmwAAAAJ&hl=en">Shuai Yi</a>, worked with <a href="https://zhongdao.github.io/">Zhongdao Wang</a>, <a href="https://scholar.google.com/citations?user=sMQV1ecAAAAJ">Haiyu Zhao</a> and <a href="http://boyangdeng.com/">Boyang Deng</a>
+                Research Intern, mentored by <a href="https://scholar.google.com/citations?user=afbbNmwAAAAJ&hl=en">Shuai Yi</a>, collaborated with <a href="https://zhongdao.github.io/">Zhongdao Wang</a>, <a href="https://scholar.google.com/citations?user=sMQV1ecAAAAJ">Haiyu Zhao</a> and <a href="http://boyangdeng.com/">Boyang Deng</a>
               </li>
               </ul>
             </td>
@@ -266,11 +308,11 @@
               <p>Teaching Assistant:
               </p>
               <ul>
-              <li>Spring 2019, <a href="https://www.cs.cornell.edu/courses/cs4787/2019sp/">CS4787 Principles of Large-Scale Machine Learning</a>
+              <li>Spring 2019, <a href="https://www.cs.cornell.edu/courses/cs4787/2019sp/">CS 4787 Principles of Large-Scale Machine Learning</a>
               </li>
-              <li>Summer 2019, <a href="http://www.cs.cornell.edu/courses/cs2110/2019su/">CS2110 OOP and Data Structures</a>
+              <li>Summer 2019, <a href="http://www.cs.cornell.edu/courses/cs2110/2019su/">CS 2110 OOP and Data Structures</a>
               </li>
-              <li>Fall 2019, <a href="http://www.cs.cornell.edu/courses/cs6670/2019fa/">CS6670 Graduate Computer Vision</a>
+              <li>Fall 2019, <a href="http://www.cs.cornell.edu/courses/cs6670/2019fa/">CS 6670 Graduate Computer Vision</a>
               </li>
               </ul>
 
@@ -296,7 +338,7 @@
             <li>Header avatars credit to <a href="https://www.instagram.com/zeyapdraws">Zeya Peng</a>.</li>
               <li>I love <a href="/images/soccer.jpeg">playing soccer</a> and FIFA/PES games (FIFA'20 Season Division 1).
               </li>
-              <li>Meet the most adorable <a href="/images/cat.jpeg">S'more</a>! Her Chinese name is 屎妹 :)
+              <li>Meet the most adorable <a href="/images/cat.jpeg">S'more</a>! Her Chinese name is 屎妹 :) This is her best friend, <a href="/images/shiba.jpg">Shiba</a> a.k.a. 屎宝 lol.
               </li>
               <li>I am from <a href="https://en.wikipedia.org/wiki/Jiaozuo">Jiaozuo</a>, a beautiful small city in Henan, China.
               </li>
@@ -322,7 +364,7 @@
               </p>
               <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=C4uDDw54f6lp7PV6MYmu_9D5XvdyDYd8idAic9vbDJo&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
               <p style="text-align:center;font-size:small;">
-                last update: Dec, 2020
+                last update: Apr, 2020
               </p>
             </td>
           </tr>
