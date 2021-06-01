@@ -8,4 +8,5 @@ authors: "Davis Wertheimer*, <strong>Luming Tang*</strong>, Bharath Hariharan"
 venue: "To appear in CVPR"
 paper: https://arxiv.org/abs/2012.01506
 code: https://github.com/Tsingularity/FRN
+poster: /pdfs/cvpr21_poster.pdf
 ---

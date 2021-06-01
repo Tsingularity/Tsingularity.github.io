@@ -6,6 +6,6 @@ image: /images/youtube8m.jpg
 categories: project
 authors: "<strong>Luming Tang*</strong>, Boyang Deng*, Haiyu Zhao*, Shuai Yi"
 venue: "CVPR Workshop on Youtube-8M Large-Scale Video Understanding"
-paper: https://static.googleusercontent.com/media/research.google.com/zh-CN//youtube8m/workshop2017/c13.pdf
+draft: https://static.googleusercontent.com/media/research.google.com/zh-CN//youtube8m/workshop2017/c13.pdf
 code: https://github.com/Tsingularity/youtube-8m
 ---

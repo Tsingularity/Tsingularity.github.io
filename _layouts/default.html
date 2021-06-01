@@ -176,6 +176,15 @@
               <a href="{{post.arxiv}}">arxiv</a>
               {% endif %}
 
+              {% if post.draft %}
+              {% if my_flag == false %}
+              {% assign my_flag = true %}
+              {% else %}
+              / 
+              {% endif %}
+              <a href="{{post.draft}}">draft</a>
+              {% endif %}
+
               {% if post.video %}
 
               {% if my_flag == false %}
@@ -203,15 +212,6 @@
               / 
               {% endif %}
               <a href="{{post.code}}">code</a>
-              {% endif %}
-
-              {% if post.draft %}
-              {% if my_flag == false %}
-              {% assign my_flag = true %}
-              {% else %}
-              / 
-              {% endif %}
-              <a href="{{post.draft}}">draft</a>
               {% endif %}
 
               {% if post.supp %}
