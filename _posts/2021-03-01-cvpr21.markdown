@@ -5,7 +5,7 @@ date:   2021-03-01 08:00:00 +00:00
 image: /images/frn.png
 categories: research
 authors: "Davis Wertheimer*, <strong>Luming Tang*</strong>, Bharath Hariharan"
-venue: "To appear in CVPR"
+venue: "CVPR"
 paper: https://arxiv.org/abs/2012.01506
 code: https://github.com/Tsingularity/FRN
 poster: /pdfs/cvpr21_poster.pdf
