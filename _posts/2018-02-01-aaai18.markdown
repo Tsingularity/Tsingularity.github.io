@@ -4,7 +4,7 @@ title:  "Multi-Entity Dependence Learning with Rich Context via Conditional Vari
 date:   2018-02-01 08:00:00 +00:00
 image: /images/aaai18.png
 categories: research
-authors: "<strong>Luming Tang*</strong>, Yexiang Xue*, Di Chen, Carla P. Gomes"
+authors: "<strong>Luming Tang</strong>, Yexiang Xue, Di Chen, Carla P. Gomes"
 venue: "AAAI"
 paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16143
 poster: /pdfs/aaai18_poster.pdf

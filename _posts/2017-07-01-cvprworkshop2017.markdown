@@ -3,9 +3,9 @@ layout: post
 title:  "Hierarchical Deep Recurrent Architecture for Video Understanding"
 date:   2017-07-01 08:00:00 +00:00
 image: /images/youtube8m.jpg
-categories: project
-authors: "<strong>Luming Tang*</strong>, Boyang Deng*, Haiyu Zhao*, Shuai Yi"
+categories: research
+authors: "<strong>Luming Tang</strong>, Boyang Deng, Haiyu Zhao, Shuai Yi"
 venue: "CVPR Workshop on Youtube-8M Large-Scale Video Understanding"
-draft: https://static.googleusercontent.com/media/research.google.com/zh-CN//youtube8m/workshop2017/c13.pdf
+paper: https://static.googleusercontent.com/media/research.google.com/zh-CN//youtube8m/workshop2017/c13.pdf
 code: https://github.com/Tsingularity/youtube-8m
 ---
