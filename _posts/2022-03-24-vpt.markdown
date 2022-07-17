@@ -5,6 +5,7 @@ date:   2022-03-24 08:00:00 +00:00
 image: /images/vpt.png
 categories: research
 authors: "Menglin Jia*, <strong>Luming Tang*</strong>, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim"
-venue: "Tech Report"
+venue: "ECCV"
 paper: https://arxiv.org/abs/2203.12119
+code: https://github.com/KMnP/vpt
 ---

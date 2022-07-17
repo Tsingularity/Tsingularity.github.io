@@ -6,7 +6,7 @@ image: /images/aaai18.png
 categories: research
 authors: "<strong>Luming Tang</strong>, Yexiang Xue, Di Chen, Carla P. Gomes"
 venue: "AAAI"
-paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16143
+paper: https://ojs.aaai.org/index.php/AAAI/article/view/11335
 poster: /pdfs/aaai18_poster.pdf
 slides: /pdfs/aaai18_slides.pdf
 code: https://github.com/Tsingularity/MEDL_CVAE
