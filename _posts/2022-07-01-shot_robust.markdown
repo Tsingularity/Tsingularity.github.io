@@ -6,5 +6,5 @@ image: /images/shot_robust.png
 categories: research
 authors: "Davis Wertheimer*, <strong>Luming Tang*</strong>, Bharath Hariharan"
 venue: "Tech Report"
-paper: https://arxiv.org/abs/2207.03398
+arxiv: https://arxiv.org/abs/2207.03398
 ---
