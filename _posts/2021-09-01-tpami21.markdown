@@ -5,7 +5,7 @@ date:   2021-09-01 08:00:00 +00:00
 image: /images/tpami21.png
 categories: project
 authors: "Davis Wertheimer, <strong>Luming Tang</strong>, Dhruv Baijal, Pranjal Mittal, Anika Talwar, Bharath Hariharan"
-venue: "Tech report"
+venue: "Tech Report"
 paper: https://daviswer.github.io/files/tpami2021paper.pdf
 code: https://github.com/daviswer/fewshotlocal
 ---

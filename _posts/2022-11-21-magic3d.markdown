@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Magic3D: High-Resolution Text-to-3D Content Creation"
+date:   2022-11-21 08:00:00 +00:00
+image: /images/magic3d.png
+categories: research
+authors: "Chen-Hsuan Lin*, Jun Gao*, <strong>Luming Tang*</strong>, Towaki Takikawa*, Xiaohui Zeng*, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin"
+venue: "Tech Report"
+paper: https://arxiv.org/abs/2211.10440
+project_page: https://deepimagination.cc/Magic3D/
+---
