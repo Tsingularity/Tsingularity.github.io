@@ -36,9 +36,9 @@
               <!-- <p>
                 <b>I'll join NVIDIA as a research intern for 2022 summer, working with <a href="https://tsungyilin.info/">Tsung-Yi Lin</a></b>
               </p> -->
-              <p>
+              <!-- <p>
                 <b>I am looking for research internship of summer 2023. Feel free to email me for potential opportunities.</b>
-              </p>
+              </p> -->
 
               <p style="text-align:center">
                 <a href="mailto:lt453@cornell.edu"> Email</a> &nbsp;/&nbsp;
@@ -95,6 +95,9 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.highlight %}
+              <font color='red'><b>({{post.highlight}})</b></font>
+              {% endif %}
               <br>
               {% if post.paper %}
               <a href="{{post.paper}}">paper</a>
