@@ -8,4 +8,5 @@ authors: "<strong>Luming Tang</strong>, Nataniel Ruiz, Qinghao Chu, Yuanzhen Li,
 venue: "Tech Report"
 paper: https://arxiv.org/abs/2309.16668
 project_page: https://realfill.github.io
+video: https://www.youtube.com/watch?v=bD_HyxHMHPo
 ---

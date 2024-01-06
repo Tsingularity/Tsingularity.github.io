@@ -9,4 +9,7 @@ venue: "NeurIPS"
 paper: https://arxiv.org/abs/2306.03881
 project_page: https://diffusionfeatures.github.io/
 code: https://github.com/Tsingularity/dift
+poster: https://neurips.cc/media/PosterPDFs/NeurIPS%202023/69928.png?t=1701809384.7225323
+slides: https://neurips.cc/media/neurips-2023/Slides/69928.pdf
+video: https://neurips.cc/virtual/2023/poster/69928
 ---
