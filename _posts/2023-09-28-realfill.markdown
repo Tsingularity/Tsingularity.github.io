@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "RealFill: Reference-Driven Generation for Authentic Image Completion"
-date:   2023-06-1 08:00:00 +00:00
+date:   2024-05-01 08:00:00 +00:00
 image: /images/realfill.jpeg
 categories: research
 authors: "<strong>Luming Tang</strong>, Nataniel Ruiz, Qinghao Chu, Yuanzhen Li, Aleksander Holynski, David E. Jacobs, Bharath Hariharan, Yael Pritch, Neal Wadhwa, Kfir Aberman, Michael Rubinstein"
-venue: "Tech Report"
+venue: "SIGGRAPH"
 paper: https://arxiv.org/abs/2309.16668
 project_page: https://realfill.github.io
 video: https://www.youtube.com/watch?v=bD_HyxHMHPo
+highlight: Journal Track
 ---
