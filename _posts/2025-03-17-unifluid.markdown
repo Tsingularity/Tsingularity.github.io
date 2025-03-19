@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Unified Autoregressive Visual Generation and Understanding with Continuous Tokens"
+date:   2025-03-17 08:00:00 +00:00
+image: /images/unifluid.jpg
+categories: research
+authors: "Lijie Fan*, <strong>Luming Tang*</strong>, <strong>Siyang Qin</strong>, Tianhong Li, Xuan Yang, Siyuan Qiao, Andreas Steiner, Chen Sun, Yuanzhen Li, Tao Zhu, Michael Rubinstein, Michalis Raptis, Deqing Sun, Radu Soricut"
+venue: "Tech Report"
+paper: https://arxiv.org/abs/2503.13436
+---
