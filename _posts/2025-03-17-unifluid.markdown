@@ -6,5 +6,5 @@ image: /images/unifluid.jpg
 categories: research
 authors: "Lijie Fan*, <strong>Luming Tang*</strong>, Siyang Qin*, Tianhong Li, Xuan Yang, Siyuan Qiao, Andreas Steiner, Chen Sun, Yuanzhen Li, Tao Zhu, Michael Rubinstein, Michalis Raptis, Deqing Sun, Radu Soricut"
 venue: "Tech Report"
-paper: https://arxiv.org/abs/2503.13436
+arxiv: https://arxiv.org/abs/2503.13436
 ---
