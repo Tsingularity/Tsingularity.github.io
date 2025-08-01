@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities"
+date:   2025-06-15 08:00:00 +00:00
+image: /images/gemini2p5.png
+categories: research
+authors: "<strong>Gemini Team</strong>"
+venue: "Tech Report"
+arxiv: https://arxiv.org/abs/2507.06261
+---
