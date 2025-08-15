@@ -5,6 +5,6 @@ date:   2025-03-01 08:00:00 +00:00
 image: /images/cvpr25.jpg
 categories: research
 authors: "Benlin Liu, Yuhao Dong, Yiqin Wang, Zixian Ma, Yansong Tang, <strong>Luming Tang</strong>, Yongming Rao, Wei-Chiu Ma, Ranjay Krishna"
-venue: "to appear in CVPR"
+venue: "CVPR"
 paper: https://arxiv.org/abs/2408.00754
 ---
